@@ -1,0 +1,8 @@
+
+src/bundle.js
+src/bundle.css
+node_modules/
+.vscode/
+dist
+public
+.DS_Store
